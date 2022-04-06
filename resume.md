@@ -31,4 +31,4 @@ I was a student at the UW where I studied data science in the field of geography
 
 
 
-[University 1]: http://www.uw.edu
+[University of Washington]: http://www.uw.edu
